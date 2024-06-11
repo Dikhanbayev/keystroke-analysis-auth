@@ -1,0 +1,7 @@
+pandas
+numpy
+pynput
+statistics
+streamlit
+pyautogui
+matplotlib
